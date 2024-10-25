@@ -1,1 +1,1 @@
-# fyp-news
+# Fyp News
